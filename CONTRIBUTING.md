@@ -40,8 +40,7 @@ SSA POMS is publicly accessible at https://secure.ssa.gov/apps10/poms.nsf/
 ## Policy interpretation
 
 These skills make architectural inferences from policy — for example, concluding
-that medical equivalence requires human MC/PC review (DI 24508.010) means AI
-cannot make a final Step 3 equivalence finding. If you believe an interpretation
+that medical equivalence requires human MC/PC review (DI 24508.010). If you believe an interpretation
 is incorrect, open an issue with the relevant POMS citation.
 
 ## Accuracy over completeness
