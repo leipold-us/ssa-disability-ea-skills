@@ -129,10 +129,10 @@ sources for the technical integration content in `ssa-hit-architect`.
 ## Author Background
 
 These skills were developed by a former SSA employee with direct program experience:
-- Component Security Officer for OCIO systems including the eDIB Major System
+- Former Component Security Officer for OCIO systems
 - Represented SSA at ONC (Office of the National Coordinator for Health IT) in 2005
-- Worked on ERE, e-827, and web services security compliance from program inception
-- Access Control Utility (ACU) team supported ERE and the e-827 as early customers
+- Supported ERE, e-827, and web services security compliance from program inception
+- Access Control Utility (ACU) team supported ERE as early customers
 
 ---
 
