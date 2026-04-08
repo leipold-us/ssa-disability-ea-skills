@@ -23,7 +23,7 @@ description: >
 This skill provides authoritative domain knowledge about SSA's medical evidence
 collection program for architects designing solutions that integrate with or
 augment SSA's disability determination workflow. It covers the current state,
-the ten core problems, SSA system integration points, policy constraints, and
+the ten core opportunities in SSA integration points, policy constraints, and
 the vendor landscape as of April 2026.
 
 **Companion skill:** `ssa-disability-ea` covers the full SSA disability
@@ -35,15 +35,15 @@ to understand the business problem. Use this skill for integration specifics.
 
 - For system integration questions → see **SSA Systems Reference**
 - For policy constraints → see **Policy and Authorization**
-- For the ten problems and where solutions plug in → see **Problem and Integration Matrix**
+- For the ten opportunities and where solutions plug in → see **Opportunity and Integration Matrix**
 - For the RFI and what SSA is asking → see **RFI Context**
 - For acronyms → see **Acronym Guide**
 - For named contacts and key organizations → see **Key Contacts**
 
 Read the relevant section(s) before responding. For deep technical detail on
 integration protocols, read `references/integration-technical.md`.
-For the full ten-problem matrix with SSA integration points, read
-`references/problem-matrix.md`.
+For the full ten-opportunity matrix with SSA integration points, read
+`references/opportunity-matrix.md`.
 For additional POMS sections (DI 22505.006, DI 81020.020, DI 81020.110,
 DI 22505.035), read `references/poms-additional.md`.
 
@@ -162,12 +162,12 @@ SSA GitHub repository: https://github.com/SSAgov/HealthIT (6 stars — virtually
 
 ---
 
-## The Ten Problems
+## The Ten Opportunities
 
-A solution architect should be aware of these ten structural problems.
-For each problem's SSA integration point, read `references/problem-matrix.md`.
+A solution architect should be aware of these ten structural opportunities.
+For each opportunity's SSA integration point, read `references/opportunity-matrix.md`.
 
-| # | Problem | Type | Root Cause |
+| # | Opportunity | Type | Root Cause |
 |---|---------|------|-----------|
 | 1 | Coverage gaps — small practices, rural, behavioral health not on TEFCA | Collection | No mandate authority; $15 rate insufficient; onboarding burden too high |
 | 2 | Identity matching — 15% of electronic records undeliverable | Collection | SSN vs. MRN mismatch; no EMPI at SSA query layer |

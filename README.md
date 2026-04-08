@@ -24,7 +24,7 @@ Covers the full SSA disability determination business process:
 - **Continuing Disability Review** — Medical Improvement Review Standard (MIRS)
 
 **Use this skill first.** Understanding the business process is a prerequisite
-for designing solutions that genuinely solve SSA's problems rather than just
+for designing solutions that genuinely address SSA's opportunities rather than just
 delivering records faster into an unchanged workflow.
 
 ---
@@ -34,7 +34,7 @@ delivering records faster into an unchanged workflow.
 Covers SSA's electronic health record collection program and integration architecture:
 
 - **SSA Systems Reference** — MEGAHIT, EDCS, CEF, ERE, DCPS, eView, Pay4HIT
-- **The Ten Problems** — structural gaps with specific SSA integration points
+- **The Ten Opportunities** — structural gaps with specific SSA integration points
 - **Technical Standards** — CCDA R2.1, IHE XCA, 22 accepted document types, FHIR gap
 - **POMS Policy** — DI 81020.060, DI 22505.006, DI 81020.110, DI 22505.035, VA/DoD pipeline
 - **RFI 28321325RI0000047** — eleven information bullets analyzed with SSA integration context
@@ -81,7 +81,7 @@ ssa-disability-ea/
 ssa-hit-architect/
 ├── SKILL.md                           # Main knowledge base (~340 lines)
 └── references/
-    ├── problem-matrix.md              # Ten problems with SSA integration points
+    ├── opportunity-matrix.md              # Ten opportunities with SSA integration points
     ├── integration-technical.md       # IHE XCA specs, document types, CEF, VA pipeline
     └── poms-additional.md             # DI 22505.006, DI 81020.020, DI 81020.110, DI 22505.035
 ```
